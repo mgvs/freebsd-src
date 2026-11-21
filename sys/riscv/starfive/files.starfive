@@ -13,3 +13,5 @@ riscv/starfive/jh7110_gpio.c		standard
 riscv/starfive/jh7110_pcie.c		optional	pci fdt
 riscv/starfive/jh7110_temp.c		standard
 riscv/starfive/starfive_syscon.c	standard
+riscv/starfive/jh7110_usb.c		optional	xhci fdt
+riscv/starfive/jh7110_usbphy.c		optional	xhci fdt
